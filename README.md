@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Leandro!
 
 
-- 🌱 Crusando Ciências da Computação na USJT
+- 🌱 Cursando Ciências da Computação na USJT
 - 🔭 Atualmente desenvolvendo um software com práticas DevOps
 - 💬 Interesse em cybersegurança e inteligência artificial
 - 📫 Como me contatar: leandro.vinci@hotmail.com
