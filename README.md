@@ -22,7 +22,7 @@
 * TCP/IP
 * Segurança da Informação
 
-## Projetos em Destaque
+## Projetos 
 
 ### TRUECALL
 
